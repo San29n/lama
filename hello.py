@@ -1,2 +1,2 @@
 print ("Hello World")
-We are the Best
+print("We are the Best")
