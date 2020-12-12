@@ -1,2 +1,2 @@
-print ("Hello World")
-print("We are the Best")
+print ("Fuck World")
+print("We still the Best")
